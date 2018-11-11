@@ -1,6 +1,6 @@
 ---
 # defaults file for FirstArmTemplate
- resource_group_name: FirstArmTemplate
+ resource_group_name: DACInfraDemo
  dc_location: australiaeast
  vm_name: VM-Demo
  azuredeploy: 'https://raw.githubusercontent.com/sesha-DAC/ARMTest/master/templates/js.json'
